@@ -235,9 +235,9 @@ Secure MLOps Pipelines
 <table>
 <tr>
 <td width="8%" align="center" valign="top"><h2>01</h2></td>
-<td width="92%" valign="top">🏭 <b>Abhedya-Pratihar Unified Gateway (AI-Based Kill-Switch for OT)</b></a><br>
+<td width="92%" valign="top">🏭 <b>Abhedya-Pratihar Unified Gateway (AI-Based Kill-Switch for OT)</b><br>
 <img src="https://img.shields.io/badge/Domain-OT%2FICS_Security-D97706?style=flat-square"/> <img src="https://img.shields.io/badge/Labshock-1E293B?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DNP3-grey?style=flat-square"/> <img src="https://img.shields.io/badge/EtherNet%2FIP-grey?style=flat-square"/> <img src="https://img.shields.io/badge/S7-grey?style=flat-square"/>
-
+<br>
 A real-time defensive mechanism built for ICS environments, tested through hardware-in-the-loop simulation. Analyzes DNP3, EtherNet/IP, and S7 traffic to flag anomalous communication — with automated model switching, drift detection, and response mechanisms for security testing.
 </td>
 </tr>
@@ -245,64 +245,90 @@ A real-time defensive mechanism built for ICS environments, tested through hardw
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>02</h2></td>
-<td valign="top">📧 <a href="https://github.com/PrathamBhanushali30/Email_analysis_AI_Agent"><b>Email Analysis AI Agent</b></a><br>
+<td valign="top">
+<div style="margin-top: 6px; margin-right: 4px; float: right;">
+<a href="https://github.com/PrathamBhanushali30/Email_analysis_AI_Agent"><img align="right" src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></div>
+📧 <b>Email Analysis AI Agent</b><br>
 <img src="https://img.shields.io/badge/Domain-AI_Agents_%26_Threat_Intel-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/CrewAI-1E293B?style=flat-square"/> <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/Hybrid_Analysis-4A154B?style=flat-square"/>
-
+<br>
 A multi-agent AI workflow that triages phishing and malicious emails end-to-end — pulling behavioral signals, cross-checking threat-intel sources, scoring severity, and firing automated alerts, all through orchestrated agent collaboration.
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>03</h2></td>
-<td valign="top">🧠 <a href="https://github.com/PrathamBhanushali30/AI-Powered-Intrusion-Detection-System-IDS"><b>AI-Powered Intrusion Detection System (IDS)</b></a><br>
-<img src="https://img.shields.io/badge/Domain-Network_Security_%26_ML-16A34A?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-
-A machine-learning-based IDS that applies deep learning to network and log data — surfacing suspicious behavior and potential security breaches that signature-based tools tend to miss.
+<td valign="top">
+<div style="margin-top: 6px; margin-right: 4px; float: right;">
+<a href="https://github.com/PrathamBhanushali30/watchtower-ai"><img align="right" src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></div>
+🔐 <b>MLOps for Secure Model Deployment</b></a><br>
+<img src="https://img.shields.io/badge/Domain-DevSecOps_%26_MLOps-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<br>
+A secure MLOps pipeline with CI/CD integration, model tracking, containerization, and monitoring — applying security controls across model deployment and supporting infrastructure so the pipeline defends itself as it ships.
+<br>
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>04</h2></td>
-<td valign="top">🔎 <a href="https://github.com/PrathamBhanushali30/AI-in-VAPT-Smart-Vulnerability-Scanner"><b>AI in VAPT — Smart Vulnerability Scanner</b></a><br>
-<img src="https://img.shields.io/badge/Domain-Offensive_Security_%26_AI-DC2626?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-
-An AI-assisted vulnerability scanner for automated web application security testing — implementing vulnerability classification, risk prioritization, and automated reporting to support penetration-testing workflows.
+<td valign="top">
+<div style="margin-top: 6px; margin-right: 4px; float: right;">
+<a href="https://github.com/PrathamBhanushali30/AI-Powered-Intrusion-Detection-System-IDS"><img align="right" src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></div>
+🧠 <b>AI-Powered Intrusion Detection System (IDS)</b></a><br>
+<img src="https://img.shields.io/badge/Domain-Network_Security_%26_ML-16A34A?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<br>
+A machine-learning-based IDS that applies deep learning to network and log data — surfacing suspicious behavior and potential security breaches that signature-based tools tend to miss.
+<br>
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>05</h2></td>
-<td valign="top">🔐 <a href="https://github.com/PrathamBhanushali30/watchtower-ai"><b>MLOps for Secure Model Deployment</b></a><br>
-<img src="https://img.shields.io/badge/Domain-DevSecOps_%26_MLOps-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-
-A secure MLOps pipeline with CI/CD integration, model tracking, containerization, and monitoring — applying security controls across model deployment and supporting infrastructure so the pipeline defends itself as it ships.
+<td valign="top">
+<div style="margin-top: 6px; margin-right: 4px; float: right;">
+<a href="https://github.com/PrathamBhanushali30/AI-in-VAPT-Smart-Vulnerability-Scanner"><img align="right" src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></div>
+🔎 <b>AI in VAPT — Smart Vulnerability Scanner</b></a><br>
+<img src="https://img.shields.io/badge/Domain-Offensive_Security_%26_AI-DC2626?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<br>
+An AI-assisted vulnerability scanner for automated web application security testing — implementing vulnerability classification, risk prioritization, and automated reporting to support penetration-testing workflows.
+<br>
 </td>
 </tr>
+
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>06</h2></td>
-<td valign="top">📱 <b>Android Application Pentesting Toolkit</b></a><br>
+<td valign="top">📱 <b>Android Application Pentesting Toolkit</b><br>
 <img src="https://img.shields.io/badge/Domain-Mobile_Security-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/Frida-1E293B?style=flat-square"/> <img src="https://img.shields.io/badge/MobSF-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/JADX-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/APKTool-6A1B9A?style=flat-square"/>
-
+<br>
 Hands-on Android security testing that surfaced insecure data storage, hardcoded secrets, and exposed components — combining static analysis, dynamic instrumentation, and reverse engineering.
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>07</h2></td>
-<td valign="top">🌐 <b>Web Application Pentesting</b></a><br>
+<td valign="top">🌐 <b>Web Application Pentesting</b><br>
 <img src="https://img.shields.io/badge/Domain-Web_AppSec-DC2626?style=flat-square"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/SQLMap-8B0000?style=flat-square"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-
+<br>
 End-to-end penetration testing of vulnerable web applications — identifying and validating SQL injection, XSS, CSRF, and file-upload vulnerabilities, then documenting attack evidence, impact, and remediation recommendations per OWASP Top 10.
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" valign="top"><h2>08</h2></td>
-<td valign="top">📄 <a href="https://github.com/PrathamBhanushali30/document-chatbot"><b>Document Chatbot</b></a><br>
+<td valign="top">
+<div style="margin-top: 6px; margin-right: 4px; float: right;">
+<a href="https://github.com/PrathamBhanushali30/document-chatbot"><img align="right" src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></div>
+📄 <b>Document Chatbot</b></a><br>
 <img src="https://img.shields.io/badge/Domain-NLP_%26_LLMs-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-
+<br>
 An NLP-driven chatbot capable of answering domain-specific queries from uploaded documents — integrating LLMs and LangChain for semantic retrieval, contextual understanding, and automated responses.
+<br>
 </td>
 </tr>
 </table>
@@ -411,34 +437,6 @@ Silver Oak University, Ahmedabad
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrathamBhanushali30&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamBhanushali30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=PrathamBhanushali30&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌌 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamBhanushali30&bg_color=0F172A&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 Current Technical Direction
 
 <table>
@@ -501,6 +499,28 @@ AI-assisted IDS
 <i>
 "I look beyond 'can I exploit it?' — connecting offensive findings to detection, mitigation, and automated defense."
 </i>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PrathamBhanushali30&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamBhanushali30&bg_color=0F172A&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="98%"/>
 
 </div>
 
