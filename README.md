@@ -1,3 +1,5 @@
+<div style="background-color: #0d1117; padding: 30px; border-radius: 16px; color: #c9d1d9;">
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Pratham%20Bhanushali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20VAPT%20%C2%B7%20SOC%20%C2%B7%20OT%2FICS%20%C2%B7%20AI%20Security%20%C2%B7%20GRC&descAlignY=60&descSize=18&descColor=B8C6F0" width="100%"/>
@@ -11,6 +13,7 @@
 <i>National Forensic Sciences University, Gandhinagar</i>
 <br/><br/>
 
+<a href="https://prathambhanushali30.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-808080?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/pratham-bhanushali-16b100215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/prathambhanushali30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://tryhackme.com/p/MrCypherHat"><img src="https://img.shields.io/badge/TryHackMe-B31919?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
@@ -532,15 +535,19 @@ AI-assisted IDS
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pratham-bhanushali-16b100215">
+<a href="https://www.linkedin.com/in/pratham-bhanushali-16b100215" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Bhanushali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/prathambhanushali30">
+<a href="https://github.com/prathambhanushali30" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-prathambhanushali30-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:prathambhanushali00@gmail.com">
+<a href="https://prathambhanushali30.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Website-Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:prathambhanushali00@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-prathambhanushali00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -559,5 +566,7 @@ AI-assisted IDS
 ### ⭐ Thanks for visiting my profile!
 
 **Explore my repositories • Follow my journey • Let's build something secure**
+
+</div>
 
 </div>
