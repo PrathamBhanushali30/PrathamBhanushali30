@@ -383,35 +383,50 @@ Silver Oak University, Ahmedabad
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+### 📜 Certificate
+
+<br>
+
+**Jr Penetration Tester Learning Path**
+<br>
+*TryHackMe*
+
+</td>
+
+<td align="center" width="25%">
 
 ### 🏅 Certificate
 
 <br>
 
 **Google Cybersecurity Professional**
+<br>
 *Coursera*
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🛡️ Certificate
 
 <br>
 
 **SOC Analyst Learning Path**
+<br>
 *Let's Defend*
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 📊 Certificate
 
 <br>
 
 **QRadar SIEM Architecture (v7.5)**
+<br>
 *IBM*
 
 </td>
